@@ -2,7 +2,7 @@ Group11-SC ProjectFall26
 
 Scholarship Management System
 
-A web-based system for managing scholarships at Quaid-i-Azam University, Islamabad. It helps the Scholarship Committee advertise scholarships and review applications, and it helps students check eligibility, apply and track their application.
+A web-based system for managing scholarships at University. It helps the Scholarship Committee advertise scholarships and review applications, and it helps students check eligibility, apply and track their application.
 
 Course:CS 322 – Software Construction
 Department:Computer Science, Quaid-i-Azam University, Islamabad
@@ -10,10 +10,10 @@ Supervisor:Ma'am Onaiza Maqbool
 
 Team Members
 
-| Name | Registration No. | Role |
-| Benazir | 04072413031 | Team Leader |
-| Amna Abaid Ullah | 04072413018 | Member |
-| Ruqia Rasooli | 04072413055 | Member |
+| Name | Registration No. |
+| Benazir | 04072413031 |
+| Amna Abaid Ullah | 04072413018 |
+| Ruqia Rasooli | 04072413055 |
 
 Project Overview
 
@@ -28,7 +28,7 @@ The system lets users:
 
 Architecture
 
-The system follows a **three-tier architecture**:
+The system follows a three-tier architecture:
 
 1. UI Layer:Student Interface and Scholarship Committee Interface
 2. Application Layer:User Management, Scholarship Management, Application Management, Feedback Management
@@ -38,7 +38,7 @@ The system follows a **three-tier architecture**:
 
 | Folder / File | Description |
 | SRS: | Software Requirements Specification (G_11_Cleaned.docx) |
-| Design: | Package diagram and component diagram |
+| Design: | Package  diagram |
 
 ## Status
 
